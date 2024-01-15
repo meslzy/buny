@@ -1,0 +1,12 @@
+# ide
+.idea/
+
+# node_modules
+node_modules/
+
+# locks
+package-lock.json
+bun.lockb
+
+# generated files
+dist/
